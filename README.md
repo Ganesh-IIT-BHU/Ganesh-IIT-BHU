@@ -8,9 +8,10 @@ I'm Ganesh. My main interest lies in Competetive coding and Computer vision.
 
 <!--
 **Ganesh-IIT-BHU/Ganesh-IIT-BHU** is a ✨_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--
+
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
+-->
 
 - 🌱 I’m currently learning **Web developement** and **competetive coding**
 
