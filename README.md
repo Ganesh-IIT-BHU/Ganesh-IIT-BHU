@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Web developement** and **competetive coding**
 
-- 👯 I’m looking to collaborate on any **Web developement** or **CV** project
+- 👯 I’m looking to collaborate on any **Web developement** project
  
 <!--
 - 🤔 I’m looking for help with 
