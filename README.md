@@ -4,7 +4,7 @@
  
 ### Hi there 👋
 
-I'm Ganesh. My main interest lies in Competetive coding and Computer vision. 
+I'm Ganesh. My main interest lies in Competetive coding and DevOps. 
 
 <!--
 **Ganesh-IIT-BHU/Ganesh-IIT-BHU** is a ✨_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 
-- 🌱 I’m currently learning **Web developement** and **competetive coding**
+- 🌱 I’m currently learning **DevOps** and **competetive coding**
 
-- 👯 I’m looking to collaborate on any **Web developement** project
+- 👯 I’m looking to collaborate on any **DevOps** project
  
 <!--
 - 🤔 I’m looking for help with 
