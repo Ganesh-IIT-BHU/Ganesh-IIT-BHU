@@ -1,3 +1,4 @@
+<!--
 # UPPALA GANESH
 
 [![linkedin](https://github.com/Ganesh-IIT-BHU/Ganesh-IIT-BHU/blob/main/Linkedin.png)](https://www.linkedin.com/in/uppala-ganesh-372ab61b8/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/Ganesh-IIT-BHU/Ganesh-IIT-BHU/blob/main/mail.png)](mailto:uppalaganesh2000@gmail.com)
@@ -27,4 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 - ⚡ Fun fact: ...
+-->
+
 -->
